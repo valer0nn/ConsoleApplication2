@@ -6,6 +6,6 @@ int main()
     c = a + b;
     std::cout << "c = " << c;
     d = a * b;
-
+    std::cout << "d = " << d;
 }
 
