@@ -7,7 +7,8 @@ int main()
     std::cout << "c = " << c;
     std::cout << "Hello world! " ;
     std::cout << "Hello spring" << c;
-    
+    std::cout << "Hello spring" << c;
+    std::cout << "!!!!" << c;
 
 }
 
