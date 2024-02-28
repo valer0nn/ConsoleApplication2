@@ -6,6 +6,7 @@ int main()
     c = a + b;
     std::cout << "c = " << c;
     std::cout << "Hello world! " ;
+    std::cout << "Hello spring" << c;
     
 
 }
